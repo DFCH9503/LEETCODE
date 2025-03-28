@@ -22,14 +22,16 @@ function inorderTraversal(root){
 
 }
 
-let node3l1 = new ListNode(3)
-let node2l1 = new ListNode(4, node3l1)
-let node1l1 = new ListNode(2, node2l1)
+let root = new TreeNode(1)
+let nodeA = new TreeNode(null)
+let nodeB = new TreeNode(2)
+let nodeC = new TreeNode(3)
 
-let node3l2 = new ListNode(4)
-let node2l2 = new ListNode(6, node3l2)
-let node1l2 = new ListNode(5, node2l2)
+root.left = nodeA
+root.right = nodeB
+nodeB.left = nodeC
 
 let res = inorderTraversal(root)
+res.shift()  //remove the element before root
 
-console.log("answer to the first example is:", res.val, res.next.val, res.next.next.val)
+console.log("answer to the first example is:", res)

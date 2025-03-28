@@ -27,7 +27,14 @@ func inorderTraversal (root *TreeNode) []int{
 }
 
 func main(){
-	res := inorderTraversal()
+    root := &TreeNode{Val: 1}
+    nodeB := &TreeNode{Val: 2}
+    nodeC := &TreeNode{Val: 3}
 
-	fmt.Println("answer to the first example is:", )
+    root.Right = nodeB
+    nodeB.Left = nodeC
+
+	res := inorderTraversal(root)
+
+	fmt.Println("answer to the first example is:", res)
 }
