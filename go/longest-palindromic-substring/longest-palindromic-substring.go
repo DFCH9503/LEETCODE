@@ -5,7 +5,7 @@ import(
 	"math"
 )
 
-func losngestPalindrome(s string)string{
+func longestPalindrome(s string)string{
 	start := 0
 	end := 0
 	if  len(s) < 1 {
@@ -34,5 +34,5 @@ func expandAroundCenter(s string, left, right int) int{
 
 func main(){
 	s:= "babad"
-	fmt.Println("answer to the first example is:",losngestPalindrome(s))
+	fmt.Println("answer to the first example is:",longestPalindrome(s))
 }
