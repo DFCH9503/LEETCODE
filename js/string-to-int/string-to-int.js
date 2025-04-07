@@ -10,7 +10,7 @@ function myAtoi(s){
         i++
     }
 
-    while (i < s.length && s[i] >= "0" && s [i] <= "9"){
+    while (i < s.length && s[i] >= "0" && s[i] <= "9"){
         res = res * 10 + (s[i]-"0")
         if(sign * res > 2**31-1) return 2**31-1
         if(sign * res < -(2**31)) return -(2**31)
