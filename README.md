@@ -19,14 +19,14 @@ This repository is designed to:
 ```
 leetcode-solutions/
 ├── javascript/
-│   ├── arrays/
-│   ├── strings/
-│   ├── trees/
+│   ├── problem-1/
+│   ├── problem-2/
+│   ├── problem-3/
 │   └── ...
 ├── golang/
-│   ├── arrays/
-│   ├── strings/
-│   ├── graphs/
+│   ├── problem-1/
+│   ├── problem-2/
+│   ├── problem-3/
 │   └── ...
 └── README.md
 ```
