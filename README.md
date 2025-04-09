@@ -51,31 +51,32 @@ Each folder contains solutions organized by topic. Each solution file is named a
 ## 📈 Progress Tracker
 
 
-|                   **Problem**                   | **JavaScript** | **Go** |
-|:-----------------------------------------------:|:--------------:|:------:|
-|                     Two Sum                     |        ✅       |    ✅   |
-|                 Add Two Numbers                 |        ✅       |    ✅   |
-|  Longest Substring Without Repeating Characters |        ✅       |    ✅   |
-|          Longest Palindromic Substring          |        ✅       |    ✅   |
-|                Zig Zag Conversion               |        ✅       |    ✅   |
-|                 Reverse Integer                 |        ✅       |    ✅   |
-|             String To Integer (atoi)            |        ✅       |    ✅   |
-|                Palindrome Number                |        ✅       |    ✅   |
-|                 Roman to Integer                |        ✅       |    ✅   |
-|              Longest Common Prefix              |        ✅       |    ✅   |
-|                Valid Parentheses                |        ✅       |    ✅   |
-|              Merge Two Sorted Lists             |        ✅       |    ✅   |
-|       Remove Duplicates From Sorted Array       |        ✅       |    ✅   |
-|                  Remove Element                 |        ✅       |    ✅   |
-| Find the Index of the First Occurence in String |        ✅       |    ✅   |
-|              Search Insert Position             |        ✅       |    ✅   |
-|               Length of Last Word               |        ✅       |    ✅   |
-|                     Plus One                    |        ✅       |    ✅   |
-|                    Add Binary                   |        ✅       |    ✅   |
-|                     Sqrt(x)                     |        ✅       |    ✅   |
-|                 Climbing Stairs                 |        ✅       |    ✅   |
-|       Remove Duplicates From Sorted Array       |        ✅       |    ✅   |
-|                Merge Sorted Array               |        ✅       |    ✅   |
+| **Problem**                                     | **JavaScript** | **Go** |
+|-:-:---------------------------------------------|-:-:------------|-:-:----|
+| Two Sum                                         | ✅              | ✅      |
+| Add Two Numbers                                 | ✅              | ✅      |
+| Longest Substring Without Repeating Characters  | ✅              | ✅      |
+| Longest Palindromic Substring                   | ✅              | ✅      |
+| Zig Zag Conversion                              | ✅              | ✅      |
+| Reverse Integer                                 | ✅              | ✅      |
+| String To Integer (atoi)                        | ✅              | ✅      |
+| Palindrome Number                               | ✅              | ✅      |
+| Roman to Integer                                | ✅              | ✅      |
+| Longest Common Prefix                           | ✅              | ✅      |
+| Valid Parentheses                               | ✅              | ✅      |
+| Merge Two Sorted Lists                          | ✅              | ✅      |
+| Remove Duplicates From Sorted Array             | ✅              | ✅      |
+| Remove Element                                  | ✅              | ✅      |
+| Find the Index of the First Occurence in String | ✅              | ✅      |
+| Search Insert Position                          | ✅              | ✅      |
+| Length of Last Word                             | ✅              | ✅      |
+| Plus One                                        | ✅              | ✅      |
+| Add Binary                                      | ✅              | ✅      |
+| Sqrt(x)                                         | ✅              | ✅      |
+| Climbing Stairs                                 | ✅              | ✅      |
+| Remove Duplicates From Sorted Array             | ✅              | ✅      |
+| Merge Sorted Array                              | ✅              | ✅      |
+| Container With Most Water                       | ✅              | ✅      |
 
 > 🧠 **More problems added weekly!**
 
