@@ -52,7 +52,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 
 
 | **Problem**                                     | **JavaScript** | **Go** |
-|-:-:---------------------------------------------|-:-:------------|-:-:----|
+|-----------------------------------------------|--------------|------|
 | Two Sum                                         | ✅              | ✅      |
 | Add Two Numbers                                 | ✅              | ✅      |
 | Longest Substring Without Repeating Characters  | ✅              | ✅      |
