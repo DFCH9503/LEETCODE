@@ -77,6 +77,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 | Remove Duplicates From Sorted Array             | ✅              | ✅      |
 | Merge Sorted Array                              | ✅              | ✅      |
 | Container With Most Water                       | ✅              | ✅      |
+| Valid Palindrome                                | ✅              |       |
 
 > 🧠 **More problems added weekly!**
 
