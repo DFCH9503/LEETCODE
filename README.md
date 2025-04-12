@@ -78,6 +78,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 | Merge Sorted Array                              | ✅              | ✅      |
 | Container With Most Water                       | ✅              | ✅      |
 | Valid Palindrome                                | ✅              | ✅      |
+| Best Time to Buy and Sell Stock                 |               | ✅      |
 
 > 🧠 **More problems added weekly!**
 
