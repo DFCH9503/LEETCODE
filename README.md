@@ -79,7 +79,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 | Container With Most Water                       | ✅              | ✅      |
 | Valid Palindrome                                | ✅              | ✅      |
 | Best Time to Buy and Sell Stock                 | ✅              | ✅      |
-| Integer to Roman                                |               | ✅      |
+| Integer to Roman                                | ✅              | ✅      |
 
 > 🧠 **More problems added weekly!**
 
