@@ -80,7 +80,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 | Valid Palindrome                                | ✅              | ✅      |
 | Best Time to Buy and Sell Stock                 | ✅              | ✅      |
 | Integer to Roman                                | ✅              | ✅      |
-| 3Sum                                            | ✅              |       |
+| 3Sum                                            | ✅              | ✅      |
 
 > 🧠 **More problems added weekly!**
 

@@ -6,7 +6,7 @@ function threeSum(nums){
             continue
         }
         let j = i + 1
-        let k = nums.length -1
+        let k = nums.length - 1
 
         while(j < k){
             let total = nums[i] + nums[j] + nums [k]
