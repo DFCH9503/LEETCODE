@@ -51,7 +51,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 ## 📈 Progress Tracker
 
 
-| **Problem**                                     | **JavaScript** | **Go** |
+| **Problem**                                     | **Js** | **Go** |
 |-----------------------------------------------|--------------|------|
 | Two Sum                                         | ✅              | ✅      |
 | Add Two Numbers                                 | ✅              | ✅      |
@@ -80,6 +80,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 | Valid Palindrome                                | ✅              | ✅      |
 | Best Time to Buy and Sell Stock                 | ✅              | ✅      |
 | Integer to Roman                                | ✅              | ✅      |
+| 3Sum                                            | ✅              |       |
 
 > 🧠 **More problems added weekly!**
 
