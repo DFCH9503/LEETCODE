@@ -81,7 +81,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 | Best Time to Buy and Sell Stock                 | ✅              | ✅      |
 | Integer to Roman                                | ✅              | ✅      |
 | 3Sum                                            | ✅              | ✅      |
-| 3Sum Closest                                    | ✅              |       |
+| 3Sum Closest                                    | ✅              | ✅      |
 
 > 🧠 **More problems added weekly!**
 
