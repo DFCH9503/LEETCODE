@@ -18,12 +18,12 @@ This repository is designed to:
 
 ```
 leetcode-solutions/
-├── javascript/
+├── js/
 │   ├── problem-1/
 │   ├── problem-2/
 │   ├── problem-3/
 │   └── ...
-├── golang/
+├── go/
 │   ├── problem-1/
 │   ├── problem-2/
 │   ├── problem-3/
@@ -81,6 +81,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 | Best Time to Buy and Sell Stock                 | ✅              | ✅      |
 | Integer to Roman                                | ✅              | ✅      |
 | 3Sum                                            | ✅              | ✅      |
+| 3Sum Closest                                    | ✅              |       |
 
 > 🧠 **More problems added weekly!**
 
