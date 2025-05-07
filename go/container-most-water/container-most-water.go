@@ -28,7 +28,7 @@ func maxArea(height []int) int {
 	for l < r{
 		currWidth := r-l
 		currHeight := getMin(height[l], height[r])
-		res = getMax(res, currWidth*currHeight)
+		res = getMax(res, currWidth * currHeight)
 		if height[l] <= height[r] {
             l++
         } else {
