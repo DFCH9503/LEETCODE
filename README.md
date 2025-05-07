@@ -82,7 +82,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 | Integer to Roman                                | ✅              | ✅      |
 | 3Sum                                            | ✅              | ✅      |
 | 3Sum Closest                                    | ✅              | ✅      |
-| Find First and Last Position of Element in Sorted Array| ✅              |       |
+| Find First and Last Position of Element in Sorted Array| ✅              | ✅      |
 
 > 🧠 **More problems added weekly!**
 

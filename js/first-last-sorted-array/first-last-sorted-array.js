@@ -1,6 +1,5 @@
-function searchRange(nums, target) {
-    const binarySearch = (nums, target, isSearchingLeft) => {
-        let left = 0
+function binarySearch (nums, target, isSearchingLeft){
+    let left = 0
         let right = nums.length - 1
         let idx = -1
 
@@ -22,10 +21,12 @@ function searchRange(nums, target) {
         }
 
         return idx
-    }
-    
-    const left = binarySearch(nums, target, true)
-    const right = binarySearch(nums, target, false)
+}
+
+
+function searchRange(nums, target) {
+    let left = binarySearch(nums, target, true)
+    let right = binarySearch(nums, target, false)
     
     return [left, right] 
 }
