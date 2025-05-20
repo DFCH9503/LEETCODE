@@ -84,7 +84,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 | 3Sum Closest                                    | ✅              | ✅      |
 | Find First and Last Position of Element in Sorted Array| ✅              | ✅      |
 | Letter Combinations of a Phone Number           | ✅              | ✅      |
-| 4Sum                                            | ✅              |       |
+| 4Sum                                            | ✅              | ✅      |
 
 > 🧠 **More problems added weekly!**
 
