@@ -98,7 +98,7 @@ Have a better solution or a new problem you’d like to add? Contributions are w
 
 ## 📄 License
 
-This repository is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ---
 
