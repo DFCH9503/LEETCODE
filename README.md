@@ -85,7 +85,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 | Find First and Last Position of Element in Sorted Array| ✅              | ✅      |
 | Letter Combinations of a Phone Number           | ✅              | ✅      |
 | 4Sum                                            | ✅              | ✅      |
-| Median of Two Sorted Arrays                     | ✅              |       |
+| Median of Two Sorted Arrays                     | ✅              | ✅      |
 
 > 🧠 **More problems added weekly!**
 
