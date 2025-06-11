@@ -86,7 +86,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 | Letter Combinations of a Phone Number           | ✅              | ✅      |
 | 4Sum                                            | ✅              | ✅      |
 | Median of Two Sorted Arrays                     | ✅              | ✅      |
-| Generate Parentheses                            | ✅              |       |
+| Generate Parentheses                            | ✅              | ✅      |
 
 > 🧠 **More problems added weekly!**
 
