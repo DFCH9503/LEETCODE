@@ -87,7 +87,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 | 4Sum                                            | ✅              | ✅      |
 | Median of Two Sorted Arrays                     | ✅              | ✅      |
 | Generate Parentheses                            | ✅              | ✅      |
-| Search in Rotated Sorted Array                  | ✅              |       |
+| Search in Rotated Sorted Array                  | ✅              | ✅      |
 
 > 🧠 **More problems added weekly!**
 
