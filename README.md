@@ -88,6 +88,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 | Median of Two Sorted Arrays                     | ✅              | ✅      |
 | Generate Parentheses                            | ✅              | ✅      |
 | Search in Rotated Sorted Array                  | ✅              | ✅      |
+| Remove Nth Node from End of List                | ✅              | ✅      |
 
 > 🧠 **More problems added weekly!**
 
