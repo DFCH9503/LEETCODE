@@ -90,7 +90,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 |                   Generate Parentheses                    |                [✅](js/generate-parentheses/generate-parentheses.js)                |                [✅](go/generate-parentheses/generate-parentheses.go)                |
 |             Search in Rotated Sorted   Array              |         [✅](js/search-rotated-sorted-array/search-rotated-sorted-array.js)         |         [✅](go/search-rotated-sorted-array/search-rotated-sorted-array.go)         |
 |             Remove Nth Node from End of   List            |            [✅](js/remove-nth-node-end-list/remove-nth-node-end-list.js)            |            [✅](go/remove-nth-node-end-list/remove-nth-node-end-list.go)            |
-|             Valid Sudoku                                  |            [✅](js/valid-sudoku/valid-sudoku.js)                                    |                                                |
+|             Valid Sudoku                                  |            [✅](js/valid-sudoku/valid-sudoku.js)                                    |           [✅](go/valid-sudoku/valid-sudoku.go)                                     |
 
 > 🧠 **More problems added weekly!**
 
