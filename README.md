@@ -92,7 +92,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 |             Remove Nth Node from End of   List            |            [✅](js/remove-nth-node-end-list/remove-nth-node-end-list.js)            |            [✅](go/remove-nth-node-end-list/remove-nth-node-end-list.go)            |
 |             Valid Sudoku                                  |            [✅](js/valid-sudoku/valid-sudoku.js)                                    |           [✅](go/valid-sudoku/valid-sudoku.go)                                     |
 |             Regular Expression Matching                   |            [✅](js/reg-exp-matching/reg-exp-matching.js)                            |           [✅](go/reg-exp-matching/reg-exp-matching.go)                             |
-|             Divide Two Integers                           |                                       |           [✅](go/divide-two-integers/divide-two-integers.go)                             |
+|             Divide Two Integers                           |            [✅](js/divide-two-integers/divide-two-integers.js)                      |           [✅](go/divide-two-integers/divide-two-integers.go)                             |
 
 
 > 🧠 **More problems added weekly!**
