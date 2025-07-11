@@ -33,4 +33,4 @@ nodeB.next = nodeC
 
 res = swapPairs(head)
 
-console.log(res)
+console.log(`Swaping the nodes in ${head} the result is ${res}`)
